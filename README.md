@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/7167d209-9c93-4c60-9c6d-36af38aa64b5.svg)](https://wakatime.com/@7167d209-9c93-4c60-9c6d-36af38aa64b5)
 <!--
 **HudaNasih/HudaNasih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
