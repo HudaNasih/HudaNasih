@@ -55,9 +55,9 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 [![Your WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HudaNasih)](https://github.com/HudaNasih/github-readme-stats)
 
 ## 📫 How to reach me
-- Twitter: [@HudaNasih](https://twitter.com/Huda_Nasih) 
-- LinkedIn: [@HudaSarkawt](https://www.linkedin.com/in/%D0%BD%CF%85dasarkawt)
-
+[![X](https://img.shields.io/badge/X-informational?style=flat-square&logo=X&logoColor=white)](https://www.twitter.com/Huda_Nasih/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%D0%BD%CF%85dasarkawt?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BD%CF%85dasarkawt/)
+[![Gmail](https://img.shields.io/badge/Gmail-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:hudayk21@gmail.com?subject=Hey!)
 <!--
 **HudaNasih/HudaNasih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
