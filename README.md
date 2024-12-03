@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate developer interested in building impactful projects
 
 - **How can I reach you?**  
-  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/HudaNasih).
+  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/%D0%BD%CF%85dasarkawt)
 
 ## 💼 My Skills
 - Programming Languages: JavaScript, Python, Java
