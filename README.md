@@ -6,9 +6,9 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
   Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/%D0%BD%CF%85dasarkawt)
 
 ## 💼 My Skills
-- Programming Languages: JavaScript, Python, Java
-- Frameworks: React, Node.js, Django
-- Tools: Git, Docker, VS Code
+- Programming Languages: JavaScript, Typescript, HTML, CSS
+- Frameworks: VueJs
+- Tools: Git, VS Code, WebStorm
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HudaNasih&show_icons=true&theme=radical)
