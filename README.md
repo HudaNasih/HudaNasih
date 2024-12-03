@@ -1,4 +1,23 @@
-## Hi there 👋
+# Hello, I'm Huda 👋
+
+Welcome to my GitHub profile! I'm a passionate developer interested in building impactful projects
+
+- **How can I reach you?**  
+  Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/HudaNasih).
+
+## 💼 My Skills
+- Programming Languages: JavaScript, Python, Java
+- Frameworks: React, Node.js, Django
+- Tools: Git, Docker, VS Code
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=HudaNasih&show_icons=true&theme=radical)
+
+## 📫 How to reach me
+- Email: huda.s.nasih@gmail.com
+- Twitter: [@HudaNasih](https://twitter.com/Huda_Nasih)
+
+## Total hour works
 
 [![wakatime](https://wakatime.com/badge/user/7167d209-9c93-4c60-9c6d-36af38aa64b5.svg)](https://wakatime.com/@7167d209-9c93-4c60-9c6d-36af38aa64b5)
 <!--
