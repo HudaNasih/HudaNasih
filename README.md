@@ -34,12 +34,6 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 </tr></table>
 
 ## 📈 GitHub Stats
-<p align="center">
-    <a href="https://github.com/HudaNasih">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HudaNasih&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=HudaNasih&langs_count=12&layout=compact&langs_count=8&theme=highcontrast&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p>
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/HudaNasih">
