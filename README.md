@@ -50,7 +50,7 @@ Welcome to my GitHub profile! I'm a passionate developer interested in building 
 
 ## 📫 How to reach me
 [![X](https://img.shields.io/badge/X-informational?style=flat-square&logo=X&logoColor=white)](https://www.twitter.com/Huda_Nasih/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%D0%BD%CF%85dasarkawt?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BD%CF%85dasarkawt/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%D0%BD%CF%85dasarkawt?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BD%CF%85dasarkawt)
 [![Gmail](https://img.shields.io/badge/Gmail-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:hudayk21@gmail.com?subject=Hey!)
 <!--
 **HudaNasih/HudaNasih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
