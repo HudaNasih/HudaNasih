@@ -4,10 +4,6 @@
 
 ### Senior Frontend Developer | Scrum Master | Building Scalable Web Solutions
 
-<p>
-<strong>Based in Kurdistan, Iraq</strong>
-</p>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=HudaNasih&color=blueviolet&style=flat-square) 
 ![GitHub followers](https://img.shields.io/github/followers/HudaNasih?style=flat-square&color=blueviolet) 
 [![wakatime](https://wakatime.com/badge/user/7167d209-9c93-4c60-9c6d-36af38aa64b5.svg?style=flat-square)](https://wakatime.com/@7167d209-9c93-4c60-9c6d-36af38aa64b5)
@@ -22,12 +18,12 @@
 const huda = {
     pronouns: "she/her",
     role: "Senior Frontend Developer & Scrum Master",
-    location: "Kurdistan, Iraq 🇮🇶",
+    location: "Kurdistan",
     experience: "Leading frontend development with Vue.js ecosystem",
     methodologies: ["Agile", "Scrum"],
     currentFocus: "Building scalable e-commerce and fintech solutions",
     interests: ["Frontend Architecture", "UI/UX Design", "Team Leadership"],
-    funFact: "I turn coffee into code and user stories into features! ☕💻",
+    funFact: "I turn tea into code and user stories into features! ☕💻",
     motto: "Clean code, happy team, successful product"
 };
 ```
@@ -107,23 +103,6 @@ const huda = {
 ### 📈 Activity Graph
 <a href="https://github.com/HudaNasih">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HudaNasih&bg_color=1a1b27&color=be90f2&line=638fda&point=ffffff&area=true&area_color=638fda&title_color=be90f2&custom_title=Huda's%20Contribution%20Graph&hide_border=true&radius=16" alt="Contribution Graph" />
-</a>
-
-### 💻 Coding Time Stats
-<a href="https://wakatime.com/@7167d209-9c93-4c60-9c6d-36af38aa64b5">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@7167d209-9c93-4c60-9c6d-36af38aa64b5&layout=compact&theme=tokyonight&hide_border=true&custom_title=Weekly%20Development%20Breakdown" alt="WakaTime Stats" />
-</a>
-
-<!-- Alternative: GitHub Stats (uncomment if WakaTime doesn't work) -->
-<!-- 
-<img src="https://github-readme-stats.vercel.app/api?username=HudaNasih&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HudaNasih&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
--->
-
-
-### 🏆 GitHub Streak
-<a href="https://github.com/HudaNasih">
-<img src="https://streak-stats.demolab.com/?user=HudaNasih&theme=tokyonight&hide_border=true&stroke=638fda&ring=be90f2&fire=ffcc00" alt="GitHub Streak" />
 </a>
 
 </div>
